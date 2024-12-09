@@ -1,12 +1,13 @@
 # Nodejs_application
 
+![image](https://github.com/user-attachments/assets/4066958b-6ed3-4827-9284-8a057e92cda6)
+
+# output
+![image](https://github.com/user-attachments/assets/f52cfc43-17ac-4f75-aec0-0130b341551e)
+![image](https://github.com/user-attachments/assets/1a948df3-1b2d-458b-8048-fe0cf0806d52)
 
 
-## Getting started
-
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
-
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+# Repo – URL  - https://gitlab.com/siddhartha082/nodejs_application.git
 
 ## Add your files
 
